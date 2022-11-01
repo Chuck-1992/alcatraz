@@ -1,0 +1,1 @@
+var uno = document.getElementById('NN');
